@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "ethereumjs-util": "6.2.1",
-    "source-map-support": "0.5.12",
+    "source-map-support": "0.5.19",
     "yargs": "13.2.4"
   },
   "bundleDependencies": [
